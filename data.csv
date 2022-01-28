@@ -1,4 +1,4 @@
-,algorithm,time,cpu,matrix_size
+index,algorithm,time,cpu,matrix_size
 0,Homemade,0.0383450984954834,,84
 1,Numpy,0.0004036426544189453,,84
 2,Homemade,0.014748573303222656,,51
